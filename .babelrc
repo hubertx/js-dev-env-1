@@ -1,0 +1,6 @@
+{
+    // "presets":[
+    //     "latest"
+    // ]
+    "presets": ["es2015"]
+}
